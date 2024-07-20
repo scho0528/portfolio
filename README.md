@@ -7,7 +7,7 @@ Economics, BA | Stony Brook University
 
 ## Projects
 
-**Market Basket Analysis (_Jun 2024_)**
+[**Market Basket Analysis (_Jun 2024_)**](https://www.google.com)
 - Utilized Excel to clean and process the Online Retail dataset, standardizing formats, removing anomalies, and adding derived columns for deeper analysis.
 - Developed detailed visualizations and pivot tables to illustrate customer purchasing trends and insights.
 - Designed and implemented a comprehensive dashboard to present analysis results, facilitating data-driven decision-making.
